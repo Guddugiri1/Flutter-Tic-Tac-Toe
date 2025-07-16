@@ -38,21 +38,11 @@ state, simplifying the management of intricate interplays among distinct compone
 Combining Hooks and Riverpod has enabled me to create a cleaner and more efficient architecture for
 the Tic Tac Toe game, resulting in improved performance and maintainability.
 
-<p align="center">
-  <img src="https://github.com/Guddugiri1/Flutter-Tic-Tac-Toe/tree/main/lib/screenshots/main_menu.png" width=170>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Guddugiri1/Flutter-Tic-Tac-Toe/tree/main/lib/screenshots/single_player.png" width=170>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Guddugiri1/Flutter-Tic-Tac-Toe/tree/main/lib/screenshots/player_names.png" width=170>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="1440" height="3040" alt="image" src="https://github.com/user-attachments/assets/e417a945-25b9-4638-b016-c3c47ad8bf74" />
+<img width="1440" height="3040" alt="image" src="https://github.com/user-attachments/assets/9b42ebc6-e834-42e7-9417-ec9de7f006d2" />
+<img width="1440" height="3040" alt="image" src="https://github.com/user-attachments/assets/9e88b358-9f00-4437-90bb-a8aa289b2b5c" />
+<img width="1440" height="3040" alt="image" src="https://github.com/user-attachments/assets/c578c8a1-819c-4c47-b00d-962a621c4e95" />
 
-</p>
-<p align="center">
-  <img src="https://github.com/Guddugiri1/Flutter-Tic-Tac-Toe/tree/main/lib/screenshots/o_wins.png" width=170>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/Guddugiri1/Flutter-Tic-Tac-Toe/tree/main/lib/screenshots/game_history.png" width=170>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 ## Build Process
 
