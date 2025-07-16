@@ -61,7 +61,7 @@ the Tic Tac Toe game, resulting in improved performance and maintainability.
 - Clone or download the repo
 
 ```{r klippy, echo=FALSE, include=TRUE}
-git clone https://github.com/SouhailKrs/Flutter-Tic-Tac-Toe
+https://github.com/Guddugiri1/Flutter-Tic-Tac-Toe
 ```
 
 - Get dependencies
