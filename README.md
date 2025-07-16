@@ -39,18 +39,18 @@ Combining Hooks and Riverpod has enabled me to create a cleaner and more efficie
 the Tic Tac Toe game, resulting in improved performance and maintainability.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SouhailKrs/Flutter-Tic-Tac-Toe/main/lib/screenshots/main_menu.png" width=170>
+  <img src="https://github.com/Guddugiri1/Flutter-Tic-Tac-Toe/tree/main/lib/screenshots/main_menu.png" width=170>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/SouhailKrs/Flutter-Tic-Tac-Toe/main/lib/screenshots/single_player.png" width=170>
+  <img src="https://github.com/Guddugiri1/Flutter-Tic-Tac-Toe/tree/main/lib/screenshots/single_player.png" width=170>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/SouhailKrs/Flutter-Tic-Tac-Toe/main/lib/screenshots/player_names.png" width=170>
+  <img src="https://github.com/Guddugiri1/Flutter-Tic-Tac-Toe/tree/main/lib/screenshots/player_names.png" width=170>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SouhailKrs/Flutter-Tic-Tac-Toe/main/lib/screenshots/o_wins.png" width=170>
+  <img src="https://github.com/Guddugiri1/Flutter-Tic-Tac-Toe/tree/main/lib/screenshots/o_wins.png" width=170>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/SouhailKrs/Flutter-Tic-Tac-Toe/main/lib/screenshots/game_history.png" width=170>
+    <img src="https://github.com/Guddugiri1/Flutter-Tic-Tac-Toe/tree/main/lib/screenshots/game_history.png" width=170>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
